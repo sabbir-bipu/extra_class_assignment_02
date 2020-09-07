@@ -1,0 +1,45 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.card{
+    margin: 20px auto;
+    width: 450px;
+    height: 450px;
+    background-color: rgb(88, 20, 20);
+    text-align: center;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 5px solid wheat;
+    border-radius: 10%;
+    margin: 20px auto;
+    
+}
+
+h1{
+    background-color: wheat;
+    display: inline-block;
+    padding: 0px 20px;
+    border-radius: 10px;
+}
+h2{
+    background-color: wheat;
+    display: inline-block;
+    padding: 0px 20px;
+    border-radius: 10px;
+}
+
+h1:hover{
+    background: rgb(230, 96, 7);
+    color: white;
+    border: 5px solid white;
+}
+h2:hover{
+    background: rgb(230, 96, 7);
+    color: white;
+    border: 5px solid white;
+}
